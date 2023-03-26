@@ -1,0 +1,56 @@
+
+
+.row {
+    margin: 20px;
+}
+
+.col.row {
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30%;
+    margin: 1.66%;
+}
+
+.img{
+    position: relative;
+    align-items: center;  
+    margin: 5px;
+}
+
+.container-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+*{
+    color:darkolivegreen;  
+    font-family: 'Playfair Display', serif;
+    font-size: 25 px;
+}
+
+h4 {
+    color:darkolivegreen;
+    background-color:rgb(208, 180, 102);
+    padding: 2px;
+}
+
+h5 {
+    color:darkolivegreen;
+    background-color:rgb(200, 228, 42);
+    padding: 2px;
+}
+
+
+.menu{
+background-color: darkorange;
+width: 130px;
+height: 72px;
+position: sticky;
+top: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
